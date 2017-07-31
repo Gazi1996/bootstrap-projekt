@@ -1,0 +1,45 @@
+@media all and (max-width: 768px)
+{
+    #navbar
+    {
+        background-color: #0ED8D6;
+    }
+    
+    #navbar a:hover, #navbar .nav-colored a:hover
+    {
+        color: #333;
+    }
+    
+    
+    #navbar .navbar-toggle
+    {
+        background-color: #fff;
+        transition: all .3s;
+    }
+    
+    #navbar .navbar-toggle:hover,
+    #navbar navbar-default .icon-bar
+    {
+        background-color: #0ED8D6;    
+    }
+    
+    #contact [class*="col-"]
+    {
+	    margin-bottom: 30px;
+    }
+}
+
+@media all and (max-width: 480px)
+{
+    h1
+    {
+        font-size: 25px;
+        
+    }
+    
+    h2
+    {
+        font-size: 20px;
+    }
+    
+}

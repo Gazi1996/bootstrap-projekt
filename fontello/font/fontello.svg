@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mail-1" unicode="&#xe800;" d="M0 28v644q0 8 2 18l460-460q39-39 95-39 55 0 94 39l460 460q2-9 2-18v-644q0-37-26-62t-62-26h-937q-36 0-62 26t-26 62z m63 728q13 4 25 4h937q12 0 25-4l-463-463q-13-12-31-12t-30 12z" horiz-adv-x="1113.3" />
+
+<glyph glyph-name="ok-1" unicode="&#xe801;" d="M0 339q0-35 24-60l246-239q24-25 60-25 36 0 60 25l505 495q25 24 25 59t-25 58q-25 25-60 25t-60-25l-445-435-185 181q-25 24-60 24t-61-24q-24-24-24-59z" horiz-adv-x="920.4" />
+
+<glyph glyph-name="download-cloud" unicode="&#xe802;" d="M688 685q92 0 158-65t65-158-65-158-158-65l-167 0 0-167 111 0-168-169-166 169 111 0 0 167-168 0q-92 0-157 65t-66 158 66 158 157 65q11 0 30-2 29 52 81 83t112 31q60 0 113-31t81-83q19 2 30 2z m0-334q45 0 78 33t33 78-33 79-78 33-79-33-33-79l-112 0q0 109 90 178-33 45-90 45-45 0-78-33t-33-78q0-21 7-39l-104-39q-15 36-15 77-44-2-77-34t-34-77 33-78 78-33l447 0z" horiz-adv-x="928" />
+
+<glyph glyph-name="briefcase" unicode="&#xe804;" d="M456 326l0-100-456 0q8 226 10 292 4 108 100 108l160 0q16 26 37 67t23 45q14 26 23 32t37 6l222 0q26 0 36-7t22-31q18-32 60-112l160 0q96 0 100-108l10-292-454 0 0 100-90 0z m-74 354l-28-54 292 0-28 54q-14 26-42 26l-152 0q-28 0-42-26z m164-604l0 100 430 0q-6-88-10-166-6-84-90-84l-750 0q-90 0-90 84l-10 166 430 0 0-100 90 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="comment-alt" unicode="&#xe805;" d="M1179 385q0-126-79-233t-215-170-296-62q-122 0-234 39l2-3-357-107q44 59 71 126t31 106l4 38q-106 120-106 266 0 126 79 233t215 169 295 62 296-62 215-169 79-233z" horiz-adv-x="1179" />
+
+<glyph glyph-name="cloud" unicode="&#xe806;" d="M1435 132q0-111-75-193t-186-89v-1h-870v1q-7-1-21-1-117 0-200 83t-83 200q0 74 37 139t101 103q-8 32-8 62 0 117 83 200t200 83q103 0 186-70 43 91 129 146t185 54q144 0 246-102t102-246q0-55-16-103 85-29 138-103t52-163z" horiz-adv-x="1435" />
+</font>
+</defs>
+</svg>
